@@ -1,0 +1,25 @@
+**Task - Creat a text file to explain PR process.
+
+
+Step 1
+Local (Laptop):
+* Create a branch (feature/pr)
+* create a file  (verified using `git status`)
+* git add task1-prcreation.txt
+* git commit -m ''
+* git push
+
+
+Step 2:
+
+github.com
+
+* Raised the pull request
+* Merge the PR
+* Branch deleted.
+
+Step 3:
+Local
+* Git checkout main
+* Git pull
+* Branch deleted - git branch -d feature/pr
